@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "821c6feca4bbdb55",
+    "type": "split",
+    "children": [
+      {
+        "id": "05c7af01ab135474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79f8acd39e3b15da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NestJS-Brain/1. Nền tảng/Các khái niệm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Các khái niệm"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28bc8003e20a81f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d9cbf2c26bd5424",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c964e468072b3d33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "caa7aa28cbf9dd08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Tìm kiếm"
+            }
+          },
+          {
+            "id": "b40829d949925428",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Đánh dấu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c38bf9f4386ab0ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ddfcf2e0c28ae2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea7a4a4c0d904955",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NestJS-Brain/3. Xử lý dữ liệu & Request/Middleware.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Liên kết đến của Middleware"
+            }
+          },
+          {
+            "id": "73bd2bb35818d314",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NestJS-Brain/3. Xử lý dữ liệu & Request/Middleware.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liên kết đi ra từ Middleware"
+            }
+          },
+          {
+            "id": "546ec9f12dea5e26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Thẻ"
+            }
+          },
+          {
+            "id": "eb5431056074e593",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tất cả thuộc tính"
+            }
+          },
+          {
+            "id": "e636317741c6e625",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Đề cương"
+            }
+          },
+          {
+            "id": "078b96ed8953296f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "79f8acd39e3b15da",
+  "lastOpenFiles": [
+    "NestJS-Brain/3. Xử lý dữ liệu & Request/Middleware.md",
+    "NestJS-Brain/3. Xử lý dữ liệu & Request/HttpStatus & Response handling.md",
+    "NestJS-Brain/2. Fundamentals/main.ts & NestFactory.md",
+    "NestJS-Brain/2. Fundamentals/Provider & Service.md",
+    "NestJS-Brain/5. Xác thực & Phân quyền/Guards.md",
+    "NestJS-Brain/2. Fundamentals/Khái niệm Module.md",
+    "NestJS-Brain/2. Fundamentals/Controller.md",
+    "NestJS-Brain/2. Fundamentals/Cấu trúc thư mục.md",
+    "NestJS-Brain/2. Fundamentals/Cài đặt NestJS CLI.md",
+    "Chưa đặt tên.canvas",
+    "NestJS-Brain/7. Microservices & Message Queue/Transporters.md",
+    "NestJS-Brain/6. Các tính năng nâng cao/File Uploade.md",
+    "NestJS-Brain/6. Các tính năng nâng cao/Cache Module.md",
+    "NestJS-Brain/6. Các tính năng nâng cao/Schedule Module.md",
+    "NestJS-Brain/6. Các tính năng nâng cao/Event Emitter.md",
+    "NestJS-Brain/6. Các tính năng nâng cao/Middleware.md",
+    "NestJS-Brain/6. Các tính năng nâng cao/Interceptors.md",
+    "NestJS-Brain/6. Các tính năng nâng cao/Pipes custom validation.md",
+    "NestJS-Brain/6. Các tính năng nâng cao/Exception filters.md",
+    "NestJS-Brain/6. Các tính năng nâng cao/Logger custom.md",
+    "NestJS-Brain/6. Các tính năng nâng cao/ConfigModule.md",
+    "NestJS-Brain/5. Xác thực & Phân quyền/Session & Cookie.md",
+    "NestJS-Brain/5. Xác thực & Phân quyền/Bcrypt.md",
+    "NestJS-Brain/5. Xác thực & Phân quyền/Custom Decorator.md",
+    "NestJS-Brain/5. Xác thực & Phân quyền/Passport strategies.md",
+    "NestJS-Brain/5. Xác thực & Phân quyền/JWT.md",
+    "NestJS-Brain/4. Cơ sở dữ liệu & ORM/Mongoose.md",
+    "NestJS-Brain/10. Các thư viện & package hữu ích",
+    "NestJS-Brain/9. Deployment & Production",
+    "NestJS-Brain/8. Testing",
+    "NestJS-Brain/7. Microservices & Message Queue",
+    "NestJS-Brain/6. Các tính năng nâng cao",
+    "NestJS-Brain/5. Xác thực & Phân quyền",
+    "NestJS-Brain/3. Xử lý dữ liệu & Request",
+    "NestJS-Brain/4. Cơ sở dữ liệu & ORM",
+    "NestJS-Brain/4.Cơ sở dữ liệu & ORM",
+    "NestJS-Brain/1. Nền tảng"
+  ]
+}

@@ -1,0 +1,10 @@
+# Obsidian
+.obsidian/cache/
+.obsidian/workspace.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
