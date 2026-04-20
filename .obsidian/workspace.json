@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NestJS/3. Xử lý dữ liệu & Request/Interceptors.md",
+                "file": "NestJS/6. Các tính năng nâng cao/External Services/Mailer (SMTP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interceptors"
+              "title": "Mailer (SMTP)"
             }
           }
         ]
@@ -195,6 +195,11 @@
   },
   "active": "79f8acd39e3b15da",
   "lastOpenFiles": [
+    "NestJS/6. Các tính năng nâng cao/Mail.md",
+    "NestJS/6. Các tính năng nâng cao/External Services/Mailer (SMTP).md",
+    "NestJS/6. Các tính năng nâng cao/External Services",
+    "NestJS/6. Các tính năng nâng cao/Cache Module.md",
+    "NestJS/3. Xử lý dữ liệu & Request/Interceptors.md",
     "NestJS/4. Cơ sở dữ liệu & ORM/TypeORM.md",
     "Docker/2. Docker Images - Quản lý Images/3. Image Layers và Caching.md",
     "Docker/13. Docker Monitoring",
@@ -206,7 +211,6 @@
     "Docker/7. Docker Compose",
     "Docker/6. Docker Networks",
     "Docker/5. Docker Volumes",
-    "Docker/3. Docker Containers",
     "Docker/Untitled.md",
     "Docker/2. Docker Images - Quản lý Images/2. Image Naming và Tagging.md",
     "Docker/2. Docker Images - Quản lý Images/1. Pull và Run Images.md",
@@ -227,9 +231,6 @@
     "NestJS/2. Fundamentals/Khái niệm Module.md",
     "NestJS/2. Fundamentals/Controller.md",
     "NestJS/2. Fundamentals/Cấu trúc thư mục.md",
-    "NestJS/2. Fundamentals/Cài đặt NestJS CLI.md",
-    "Chưa đặt tên.canvas",
-    "NestJS/7. Microservices & Message Queue/Transporters.md",
-    "NestJS/6. Các tính năng nâng cao/File Uploade.md"
+    "Chưa đặt tên.canvas"
   ]
 }
