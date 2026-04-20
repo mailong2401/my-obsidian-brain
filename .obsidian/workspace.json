@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NestJS-Brain/3. Xử lý dữ liệu & Request/Middleware.md",
+                "file": "NestJS/6. Các tính năng nâng cao/External Services/Mailer (SMTP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Liên kết đến của Middleware"
+              "title": "Backlinks for Mailer (SMTP)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NestJS-Brain/3. Xử lý dữ liệu & Request/Middleware.md",
+                "file": "NestJS/6. Các tính năng nâng cao/External Services/Mailer (SMTP).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liên kết đi ra từ Middleware"
+              "title": "Outgoing links from Mailer (SMTP)"
             }
           },
           {
@@ -133,7 +133,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Thẻ"
+              "title": "Tags"
             }
           },
           {
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79f8acd39e3b15da",
+  "active": "078b96ed8953296f",
   "lastOpenFiles": [
     "NestJS/6. Các tính năng nâng cao/Mail.md",
     "NestJS/6. Các tính năng nâng cao/External Services/Mailer (SMTP).md",

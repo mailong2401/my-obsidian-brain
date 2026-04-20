@@ -1,4 +1,4 @@
-# Gửi Email trong NestJS với SMTP (Dùng pnpm)
+# Gửi Email trong NestJS với SMTP 
 
 ## 📦 Cài đặt với pnpm
 
