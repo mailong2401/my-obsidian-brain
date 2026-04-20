@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/2. Docker Images - Quản lý Images/3. Image Layers và Caching.md",
+                "file": "NestJS/3. Xử lý dữ liệu & Request/Interceptors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Image Layers và Caching"
+              "title": "Interceptors"
             }
           }
         ]
@@ -193,8 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c964e468072b3d33",
+  "active": "79f8acd39e3b15da",
   "lastOpenFiles": [
+    "NestJS/4. Cơ sở dữ liệu & ORM/TypeORM.md",
+    "Docker/2. Docker Images - Quản lý Images/3. Image Layers và Caching.md",
     "Docker/13. Docker Monitoring",
     "Docker/12. Advanced Topics",
     "Docker/11. Docker Workflow - CI CD",
@@ -205,9 +207,7 @@
     "Docker/6. Docker Networks",
     "Docker/5. Docker Volumes",
     "Docker/3. Docker Containers",
-    "Docker/4. Dockerfile",
     "Docker/Untitled.md",
-    "Docker/2. Docker Images - Quản lý Images/3. Image Layers và Caching.md",
     "Docker/2. Docker Images - Quản lý Images/2. Image Naming và Tagging.md",
     "Docker/2. Docker Images - Quản lý Images/1. Pull và Run Images.md",
     "Docker/1. Foundation - Nền tảng cơ bản/1. Core Concepts/Container là gì?.md",
@@ -218,7 +218,6 @@
     "Docker/1. Foundation - Nền tảng cơ bản/1. Core Concepts/Docker Engine.md",
     "Docker/1. Foundation - Nền tảng cơ bản/1. Core Concepts/Images là gì?.md",
     "NestJS/5. Xác thực & Phân quyền/Custom Decorator.md",
-    "NestJS/4. Cơ sở dữ liệu & ORM/TypeORM.md",
     "NestJS/1. Nền tảng/Các khái niệm.md",
     "NestJS/3. Xử lý dữ liệu & Request/Middleware.md",
     "NestJS/3. Xử lý dữ liệu & Request/HttpStatus & Response handling.md",
