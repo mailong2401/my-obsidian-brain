@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NestJS/6. Các tính năng nâng cao/External Services/Mailer (SMTP).md",
+                "file": "NestJS/3. Xử lý dữ liệu & Request/Dependency Injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mailer (SMTP)"
+              "title": "Dependency Injection"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 474.5
   },
   "right": {
     "id": "c38bf9f4386ab0ba",
@@ -179,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,44 +193,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "078b96ed8953296f",
+  "active": "79f8acd39e3b15da",
   "lastOpenFiles": [
-    "NestJS/6. Các tính năng nâng cao/Mail.md",
+    "NestJS/3. Xử lý dữ liệu & Request/Parse request.md",
+    "NestJS/3. Xử lý dữ liệu & Request/Dependency Injection.md",
+    "NestJS/3. Xử lý dữ liệu & Request/Middleware.md",
+    "NestJS/3. Xử lý dữ liệu & Request/Interceptors.md",
+    "Nextjs/Hooks/State&Lifecycle/useEffect.md",
+    "Nextjs/Hooks/State&Lifecycle/useState.md",
+    "Nextjs/Hooks/State&Lifecycle",
+    "Nextjs/Hooks",
+    "Nextjs/Untitled.md",
+    "NestJS/2. Fundamentals/Provider & Service.md",
+    "NestJS/2. Fundamentals/main.ts & NestFactory.md",
+    "NestJS/2. Fundamentals/Khái niệm Module.md",
+    "NestJS/3. Xử lý dữ liệu & Request/Custom Pipes.md",
+    "NestJS/5. Xác thực & Phân quyền/JWT.md",
+    "NestJS/5. Xác thực & Phân quyền/Guards.md",
+    "NestJS/5. Xác thực & Phân quyền/Custom Decorator.md",
+    "NestJS/5. Xác thực & Phân quyền/Bcrypt.md",
+    "NestJS/7. Microservices & Message Queue/5. Architecture Patterns.md",
+    "NestJS/7. Microservices & Message Queue/4. Client.md",
+    "NestJS/7. Microservices & Message Queue/3. Giao tiếp.md",
+    "NestJS/7. Microservices & Message Queue/2. Cài đặt và cấu hình.md",
+    "NestJS/7. Microservices & Message Queue/1. Giới thiệu.md",
+    "NestJS/7. Microservices & Message Queue/6. Nâng cao Context và Header.md",
+    "NestJS/1. Nền tảng/Các khái niệm.md",
+    "Karfa",
+    "RabiitMQ",
     "NestJS/6. Các tính năng nâng cao/External Services/Mailer (SMTP).md",
+    "NestJS/6. Các tính năng nâng cao/Mail.md",
     "NestJS/6. Các tính năng nâng cao/External Services",
     "NestJS/6. Các tính năng nâng cao/Cache Module.md",
-    "NestJS/3. Xử lý dữ liệu & Request/Interceptors.md",
     "NestJS/4. Cơ sở dữ liệu & ORM/TypeORM.md",
-    "Docker/2. Docker Images - Quản lý Images/3. Image Layers và Caching.md",
     "Docker/13. Docker Monitoring",
     "Docker/12. Advanced Topics",
     "Docker/11. Docker Workflow - CI CD",
     "Docker/10. Docker in Production",
     "Docker/9. Docker Security",
-    "Docker/8. Docker Registry",
-    "Docker/7. Docker Compose",
-    "Docker/6. Docker Networks",
-    "Docker/5. Docker Volumes",
-    "Docker/Untitled.md",
-    "Docker/2. Docker Images - Quản lý Images/2. Image Naming và Tagging.md",
-    "Docker/2. Docker Images - Quản lý Images/1. Pull và Run Images.md",
-    "Docker/1. Foundation - Nền tảng cơ bản/1. Core Concepts/Container là gì?.md",
-    "Docker/Docker Images - Quản lý Images.md",
-    "Docker/1. Foundation - Nền tảng cơ bản/1. Core Concepts/Docker Desktop.md",
-    "Docker/Core Concepts/Untitled.md",
-    "Docker/1. Foundation - Nền tảng cơ bản/1. Core Concepts/Registry vs Repository.md",
-    "Docker/1. Foundation - Nền tảng cơ bản/1. Core Concepts/Docker Engine.md",
-    "Docker/1. Foundation - Nền tảng cơ bản/1. Core Concepts/Images là gì?.md",
-    "NestJS/5. Xác thực & Phân quyền/Custom Decorator.md",
-    "NestJS/1. Nền tảng/Các khái niệm.md",
-    "NestJS/3. Xử lý dữ liệu & Request/Middleware.md",
-    "NestJS/3. Xử lý dữ liệu & Request/HttpStatus & Response handling.md",
-    "NestJS/2. Fundamentals/main.ts & NestFactory.md",
-    "NestJS/2. Fundamentals/Provider & Service.md",
-    "NestJS/5. Xác thực & Phân quyền/Guards.md",
-    "NestJS/2. Fundamentals/Khái niệm Module.md",
-    "NestJS/2. Fundamentals/Controller.md",
-    "NestJS/2. Fundamentals/Cấu trúc thư mục.md",
     "Chưa đặt tên.canvas"
   ]
 }
