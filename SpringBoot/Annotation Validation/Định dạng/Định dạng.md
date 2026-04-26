@@ -1,5 +1,0 @@
-[[@Email]]
-[[@Pattern]]
-[[@SafeHtml]]
-[[@URL]]
-[[SpringBoot/Annotation Validation/Class-level/@ScriptAssert|@ScriptAssert]]

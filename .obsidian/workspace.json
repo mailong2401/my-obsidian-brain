@@ -11,10 +11,14 @@
             "id": "b175a799ec71e80b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "SpringBoot/08. SECURITY (JWT)/8.1 Spring Security Basics/8.1 Spring Security Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.1 Spring Security Basics"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#docker-compose",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +74,7 @@
               "title": "Đánh dấu"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 598.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,11 +193,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caa7aa28cbf9dd08",
+  "active": "b175a799ec71e80b",
   "lastOpenFiles": [
+    "SpringBoot/08. SECURITY (JWT)/8.1 Spring Security Basics",
+    "SpringBoot/Roadmap Spring boot.md",
+    "SpringBoot/08. SECURITY (JWT)/8.1 Spring Security Basics/8.1 Spring Security Basics.md",
+    "SpringBoot/07. VALIDATION & EXCEPTION HANDLING/Annotation Validation/Boolean/@AssertTrue và @AssertFalse.md",
+    "SpringBoot/07. VALIDATION & EXCEPTION HANDLING/Annotation Validation/Thời gian/@Future và @FutureOrPresent.md",
+    "SpringBoot/08. SECURITY (JWT)",
+    "SpringBoot/07. VALIDATION & EXCEPTION HANDLING/Annotation Validation/Số học/@DecimalMin và @DecimalMax.md",
+    "SpringBoot/dotenv.md",
+    "SpringBoot/JPA repository.md",
+    "SpringBoot/07. VALIDATION & EXCEPTION HANDLING",
+    "SpringBoot/06. SPRING DATA JPA",
+    "SpringBoot/05. REST API DESIGN",
+    "SpringBoot/04. SPRING BOOT BASICS",
+    "SpringBoot/03. JAVA CORE (REVIEW)",
+    "SpringBoot/02. DATABASE & SQL",
+    "SpringBoot/01. FUNDAMENTALS",
+    "Docker/7. Docker Compose/1. Mysql.md",
     "Docker/7. Docker Compose/Docker Compose.md",
     "Docker/7. Docker Compose/9. Kafka + Zookeeper.md",
-    "Docker/7. Docker Compose/1. Mysql.md",
     "Docker/7. Docker Compose/6. Redis + RedisInsight.md",
     "Docker/7. Docker Compose/11. Elasticsearch + Kibana.md",
     "Docker/7. Docker Compose/10. Nginx.md",
@@ -204,30 +223,14 @@
     "Docker/7. Docker Compose/2. PostgreSQL.md",
     "Docker/7. Docker Compose/8. MongoDB.md",
     "Docker/7. Docker Compose/4. MySQL + phpMyAdmin.md",
-    "SpringBoot/dotenv.md",
-    "SpringBoot/JPA repository.md",
     "SpringBoot/Lazyvim.md",
     "SpringBoot/Mục lục.md",
-    "SpringBoot/Annotation Validation/Boolean/Boolean.md",
-    "SpringBoot/Annotation Validation/Class-level/@ScriptAssert.md",
-    "SpringBoot/Annotation Validation/Collection/Collection.md",
-    "SpringBoot/Annotation Validation/Định dạng/Định dạng.md",
-    "SpringBoot/Annotation Validation/Định dạng/@Email.md",
-    "SpringBoot/Annotation Validation/Định dạng/@Pattern.md",
-    "SpringBoot/Annotation Validation/Định dạng/@SafeHtml.md",
-    "SpringBoot/Annotation Validation/Định dạng/@URL.md",
-    "SpringBoot/Annotation Validation/Định dạng/@ScriptAssert.md",
-    "SpringBoot/Annotation Validation/Hibernate thêm/@CreditCardNumber.md",
+    "SpringBoot/07. VALIDATION & EXCEPTION HANDLING/Annotation Validation/Boolean/Boolean.md",
+    "SpringBoot/07. VALIDATION & EXCEPTION HANDLING/Annotation Validation/Class-level/@ScriptAssert.md",
+    "SpringBoot/07. VALIDATION & EXCEPTION HANDLING/Annotation Validation/Collection/Collection.md",
+    "SpringBoot/07. VALIDATION & EXCEPTION HANDLING/Annotation Validation/Định dạng/Định dạng.md",
     "SpringBoot/Annotation Validation/Hibernate thêm",
-    "SpringBoot/Annotation Validation/Class-level",
-    "SpringBoot/Annotation Validation/Collection",
-    "SpringBoot/Annotation Validation/Null",
-    "SpringBoot/Annotation Validation/Boolean",
-    "SpringBoot/Annotation Validation/Thời gian",
-    "SpringBoot/Annotation Validation/Số dấu",
-    "SpringBoot/Annotation Validation/Số học",
-    "SpringBoot/Annotation Validation/Định dạng",
-    "SpringBoot/Annotation Validation/String cơ bản",
+    "SpringBoot/07. VALIDATION & EXCEPTION HANDLING/Annotation Validation/Class-level",
     "Chưa đặt tên.canvas"
   ]
 }
