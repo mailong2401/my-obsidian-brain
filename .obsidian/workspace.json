@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/E-commerce/04-API/Auth-Service-Explained.md",
-                "mode": "preview",
+                "file": "Typescript/TypeScript Callbacks Promises AsyncAwait.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auth-Service-Explained"
+              "title": "TypeScript Callbacks Promises AsyncAwait"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/E-commerce/04-API/Auth-Service-Explained.md",
+                "file": "Project/E-commerce/04-API/Session-Service-Explained.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,19 +198,25 @@
   },
   "active": "3d73b3b4a63b5f7f",
   "lastOpenFiles": [
+    "Auth-Endpoints.md",
+    "OTP-Flow.md",
+    "Redis-Module.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Typescript/TypeScript Callbacks Promises AsyncAwait.md",
+    "Project/E-commerce/04-API/Session-Service-Explained.md",
+    "Typescript",
     "Project/E-commerce/01-Modules/Auth-Module.md",
+    "Project/E-commerce/04-API/Auth-Service-Explained.md",
     "Project/E-commerce/04-API/Auth-Controller-Explained.md",
     "Project/E-commerce/04-API/Jwt-Strategy-Explained.md",
-    "Project/E-commerce/04-API/Session-Service-Explained.md",
     "Project/E-commerce/04-API/Otp-Service-Explained.md",
     "Project/E-commerce/04-API/Auth-Module-Explained.md",
-    "Project/E-commerce/04-API/Auth-Service-Explained.md",
     "Project/E-commerce/05-DevOps/Docker.md",
     "Project/E-commerce/04-API/User-Endpoints.md",
     "Project/E-commerce/05-DevOps",
     "Project/E-commerce/04-API/Auth-Endpoints.md",
     "Project/E-commerce/04-API",
-    "Auth-Endpoints.md",
     "Project/E-commerce/01-Modules/Mail-Infra.md",
     "Project/E-commerce/02-Cross-Cutting/Rate-Limiting.md",
     "Project/E-commerce/02-Cross-Cutting/Configuration.md",
@@ -226,15 +232,9 @@
     "Project/E-commerce/00-Index",
     "Project/E-commerce/01-Overview.md",
     "Project/E-commerce/04-Modules-Logic.md",
-    "Project/E-commerce/03-Database-Schema.md.md",
-    "Project/E-commerce/02-Architecture.md",
-    "Project/E-commerce/03-Modules/Auth-Modules.md",
-    "Untitled.canvas",
-    "Untitled.base",
     "Project/E-commerce/03-Modules/data",
     "Project/E-commerce/03-Modules",
     "Project/E-commerce/02-Setup",
-    "Project/E-commerce/01-Overview",
     "Chưa đặt tên.canvas"
   ]
 }
