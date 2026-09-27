@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/product cart payment.md",
-                "mode": "preview",
+                "file": "NestJS/Cache/Cache nestjs.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "product cart payment"
+              "title": "Cache nestjs"
             }
           },
           {
@@ -241,8 +241,13 @@
   },
   "active": "730a2267b03eb986",
   "lastOpenFiles": [
-    "Project/E-commerce/Lo Trinh.md",
+    "NestJS/webhook/webhook la gi.md",
+    "NestJS/Cache/Cache nestjs.md",
+    "NestJS/Cache",
+    "NestJS/webhook/project webhook ecommerce.md",
     "Project/product cart payment.md",
+    "NestJS/webhook",
+    "Project/E-commerce/Lo Trinh.md",
     "NestJS/Session-per-device + Opaque Refresh Token + Rotation + Reuse Detection.md",
     "Project/E-commerce/00-Index/Overview.md",
     "Project/E-commerce/04-API/Otp-Service-Explained.md",
@@ -266,18 +271,13 @@
     "NestJS/3. Xử lý dữ liệu & Request/Interceptors.md",
     "NestJS/3. Xử lý dữ liệu & Request/DTO.md",
     "Auth-Endpoints.md",
-    "OTP-Flow.md",
-    "Redis-Module.md",
     "Untitled.canvas",
     "Untitled.base",
     "Typescript",
-    "Project/E-commerce/04-API/Auth-Controller-Explained.md",
     "Project/E-commerce/05-DevOps",
     "Project/E-commerce/04-API",
     "Project/E-commerce/02-Cross-Cutting",
     "Project/E-commerce/01-Modules",
-    "Project/E-commerce/00-Index",
-    "Project/E-commerce/03-Modules/data",
     "Chưa đặt tên.canvas"
   ]
 }
