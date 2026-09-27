@@ -5,7 +5,7 @@ file: src/modules/auth/services/otp.service.ts
 
 # OTP Service — Giải thích chi tiết
 
-> **Mục đích**: Quản lý vòng đời OTP (One-Time Password) — sinh, gửi, verify, chống spam, chống brute force. Đây là **security-critical service** — bug ở đây có thể dẫn tới bypass auth.
+> **Mục đích**: Quản lý vòng đời OTP (One-Time Password) — sinh, gửi, verify, chống spam, chống brute force(**tấn công vét cạn**). Đây là **security-critical service** — bug ở đây có thể dẫn tới bypass auth.
 
 ## 📦 Import & Code đầy đủ
 

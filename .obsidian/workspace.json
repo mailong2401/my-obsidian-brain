@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "NestJS/Session-per-device + Opaque Refresh Token + Rotation + Reuse Detection.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/E-commerce/01-Modules/Auth-Module.md",
-                "mode": "source",
+                "file": "Project/product cart payment.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auth-Module"
+              "title": "product cart payment"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/E-commerce/04-API/Auth-Service-Explained.md",
-                "mode": "source",
+                "file": "Database/Redis/Redis.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auth-Service-Explained"
+              "title": "Redis"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,12 +239,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd5f704121a8946c",
+  "active": "730a2267b03eb986",
   "lastOpenFiles": [
-    "Project/E-commerce/04-API/Session-Service-Explained.md",
+    "Project/E-commerce/Lo Trinh.md",
+    "Project/product cart payment.md",
     "NestJS/Session-per-device + Opaque Refresh Token + Rotation + Reuse Detection.md",
-    "Project/E-commerce/04-API/Auth-Service-Explained.md",
+    "Project/E-commerce/00-Index/Overview.md",
+    "Project/E-commerce/04-API/Otp-Service-Explained.md",
     "Project/E-commerce/01-Modules/Auth-Module.md",
+    "Database/Redis/Redis.md",
+    "Nextjs/Hooks/State&Lifecycle/useEffect.md",
+    "Nextjs/Hooks/State&Lifecycle/useState.md",
+    "Database/Redis",
+    "Database",
+    "Project/E-commerce/01-Modules/Mail-Infra.md",
+    "Project/E-commerce/01-Modules/Redis-Infra.md",
+    "Project/E-commerce/01-Modules/User-Module.md",
+    "Project/E-commerce/04-API/Auth-Service-Explained.md",
+    "Project/E-commerce/04-API/Session-Service-Explained.md",
     "Typescript/TypeScript Callbacks Promises AsyncAwait.md",
     "NestJS/3. Xử lý dữ liệu & Request/Dependency Injection.md",
     "NestJS/3. Xử lý dữ liệu & Request/Custom Pipes.md",
@@ -260,24 +272,12 @@
     "Untitled.base",
     "Typescript",
     "Project/E-commerce/04-API/Auth-Controller-Explained.md",
-    "Project/E-commerce/04-API/Jwt-Strategy-Explained.md",
-    "Project/E-commerce/04-API/Otp-Service-Explained.md",
-    "Project/E-commerce/04-API/Auth-Module-Explained.md",
-    "Project/E-commerce/05-DevOps/Docker.md",
-    "Project/E-commerce/04-API/User-Endpoints.md",
     "Project/E-commerce/05-DevOps",
-    "Project/E-commerce/04-API/Auth-Endpoints.md",
     "Project/E-commerce/04-API",
-    "Project/E-commerce/01-Modules/Mail-Infra.md",
-    "Project/E-commerce/02-Cross-Cutting/Rate-Limiting.md",
-    "Project/E-commerce/02-Cross-Cutting/Configuration.md",
-    "Project/E-commerce/Database-Schema.md",
     "Project/E-commerce/02-Cross-Cutting",
     "Project/E-commerce/01-Modules",
     "Project/E-commerce/00-Index",
     "Project/E-commerce/03-Modules/data",
-    "Project/E-commerce/03-Modules",
-    "Project/E-commerce/02-Setup",
     "Chưa đặt tên.canvas"
   ]
 }
