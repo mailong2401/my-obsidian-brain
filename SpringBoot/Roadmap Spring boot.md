@@ -76,7 +76,7 @@ SPRING BOOT ROADMAP (OBSIDIAN STRUCTURE)
 12. DOCKER & DEVOPS
 	1. Docker Basics
 	2. Docker BasicsDockerfile
-	3. [[Docker Compose]]
+	3. [[Docker/7. Docker Compose/Docker Compose]]
 	4. Networking in Docker
 	5. Environment Variables
 	6. CI/CD Basics (GitHub Actions)
